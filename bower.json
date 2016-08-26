@@ -4,7 +4,9 @@
     "liuzhenangel <550686383@qq.com>"
   ],
   "description": "",
-  "main": "test.js",
+  "main": [
+    "dist/currency_input.js",
+  ]
   "license": "MIT",
   "homepage": "",
   "ignore": [
@@ -14,4 +16,7 @@
     "test",
     "tests"
   ]
+  "dependencies": {
+    "angular": "^1.2.16"
+  }
 }
