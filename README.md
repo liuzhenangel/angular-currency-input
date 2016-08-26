@@ -1,8 +1,8 @@
 ## Quick start
 
-+ Install AngularStrap with [Bower](https://github.com/bower/bower).
++ Install angular-currency-input with [Bower](https://github.com/bower/bower).
 
 >
 ```bash
-$ bower install angular-strap --save
+$ bower install angular-currency-input --save
 ```
