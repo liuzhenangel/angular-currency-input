@@ -6,3 +6,10 @@
 ```bash
 $ bower install angular-currency-input --save
 ```
+
+## Usage
+
+>
+```bash
+currency-input field='money'
+```
