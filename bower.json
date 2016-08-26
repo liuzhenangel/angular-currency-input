@@ -4,9 +4,7 @@
     "liuzhenangel <550686383@qq.com>"
   ],
   "description": "",
-  "main": [
-    "dist/currency_input.js",
-  ]
+  "main": "currency_input.js",
   "license": "MIT",
   "homepage": "",
   "ignore": [
@@ -18,6 +16,6 @@
   ]
   "dependencies": {
     "angular": "^1.2.16",
-    "bignumber": '^2.4.0'
+    "bignumber": "^2.4.0"
   }
 }
