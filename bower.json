@@ -1,0 +1,17 @@
+{
+  "name": "angular-currency-input",
+  "authors": [
+    "liuzhenangel <550686383@qq.com>"
+  ],
+  "description": "",
+  "main": "test.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
