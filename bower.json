@@ -17,6 +17,7 @@
     "tests"
   ]
   "dependencies": {
-    "angular": "^1.2.16"
+    "angular": "^1.2.16",
+    "bignumber": '^2.4.0'
   }
 }
