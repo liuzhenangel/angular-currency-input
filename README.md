@@ -1,4 +1,4 @@
-## autonumeric-rails
+## angular-currency-input
 
 angularCurrencyInput is a Angularjs plugin that automatically formats currency (money) and numbers as you type on form inputs.
 
