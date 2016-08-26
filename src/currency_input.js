@@ -23,7 +23,6 @@ angular.directive('currencyInput', function() {
       updateInputValue = function(inputVal) {
         var res;
         res = doWithDecimal(inputVal);
-        console.log('xxxx:' + res);
         input.val(res);
         return input.data('origin-val', res.replace(/,/g, ''));
       };
